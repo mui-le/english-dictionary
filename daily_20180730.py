@@ -86,7 +86,7 @@ my_word_list = {
             'a substantial breakfast'
             'the document requires substantial changes',
         ],
-    }
+    },
     'aid': {
         'explain': "help, such as money or food, give by an organization or government to a country to a country or to people who are in a difficult",
         'examples': [
@@ -116,23 +116,86 @@ my_word_list = {
         ],
     },
     'artificial': {
-        'explain': "",
+        'explain': "not real or not made by natural things but made by to be like something that is real or natural",
         'examples': [
-
+            'artificial flowers',
+            'artificial light',
+            'artificial fertilizer',
         ],
+    },
+    'fertilizer': {
+        'explain': "a substance that is put the soil to make plants grow",
+        'examples': [],
     },
     'organic': {
         'explain': "relating to farming or gardening methods of growing food without using artificial chemicals",
         'examples': [
-            ''
+            'organic gardening',
+            'organic farming is better for the environment',
         ],
     },
-    'industry': {
+    'coal': {
+        'explain': "a hard black mineral which is dug out of ground burnt to produce heat",
+        'examples': [
+            "put some coal on the fire",
+        ],
+    },
+    'mineral': {
+        'explain': "a substance that is formed naturally in the earth ",
+        'examples': [
+            'the area is very rich in minerals',
+            'a country with a few mineral resources'
+        ],
+    },
+    'mining': {
+        'explain': "the work or industry to getting gold, coal",
+        'examples': [
+            "the coal mining industry"
+        ],
+    },
+    'dig': {
+        'explain': "to move earth, snow etc...or to make hole in the ground, using a spade or your hands",
+        'examples': [
+            'they dig a small hole in the sand to bury their eggs',
+        ],
+    },
+    'bury': {
         'explain': "",
         'examples': [
-            ''
         ],
-    }
+    },
+    'steel': {
+        'explain': "strong metal that can be shaped easily, consisting of iron and carbon",
+        'examples': [
+            'a steel bridge'
+        ],
+    },
+    'metal': {
+        'explain': "a hard, usually shiny substance such as iron, gold",
+        'examples': [
+            'the gate is made of metal',
+            'a small black metal box',
+        ]
+    },
+    'industry': {
+        'explain': "the large-scale of goods or of substance such as coal and steel",
+        'examples': [
+            'the type for software is widely used in industry',
+            'workers in manufacturing industry'
+        ],
+    },
+    'shiny': {
+        'explain': "smooth & bright",
+        'examples': [
+            'shiny black shoes'
+        ],
+    },
+    'polish': {
+        'explain': "to make something smooth, bright and shiny by rubbing it",
+        'examples': [
+            'I spent all afternoon for polishing the silver',
+        ],
+    },
     'chemicals': {
         'explain': "a substance used in chemitry or produced by a chemical process",
         'examples': [
@@ -141,14 +204,16 @@ my_word_list = {
         ],
     },
     'agriculture': {
-        'explain': "",
+        'explain': "the practice or sciense of farming",
         'examples': [
-
+            'more than 75% of the land is used for agriculture',
         ],
     },
     'violent': {
-        'explain': "",
-        'examples': [],
+        'explain': "involving actions that are intended to injure or kill people",
+        'examples': [
+            'the increase in violent crime'
+        ],
     },
     'protest': {
         'explain': "",
@@ -243,5 +308,17 @@ my_word_list = {
 
         ],
     },
-    ''
+    'worm': {},
+    'spade': {},
+    'burn': {},
+    'flames': {},
+    'wick': {},
+    'wax': {},
+    'rub': {},
+    'dust': {},
+    'lay': {},
+    'thick': {},
+    'surface': {},
+    'crime': {},
+    'legal': {},
 }

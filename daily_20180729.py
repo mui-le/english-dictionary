@@ -77,48 +77,6 @@ my_word_list = {
             'the problem with nuclear energy is dealing with waste',
         ],
     },
-    'nuclear': {
-        'explain': "",
-        'examples': [
-            ''
-        ],
-    },
-    'involve': {
-        'explain': "",
-        'examples': [],
-    },
-    'waste': {
-        'explain': "",
-        'examples': [
-            ''
-        ],
-    },
-    'effective': {
-        'explain': "",
-        'examples': [],
-    },
-    'sensible': {
-        'explain': "",
-        'examples': [],
-    },
-    'judgment': {
-        'explain': "",
-        'examples': [],
-    },
-    'heat': {
-        'explain': "",
-        'examples': [],
-    },
-    'quality': {
-        'explain': "",
-        'examples': [],
-    },
-    'operate': {
-        'explain': "to use ",
-        'examples': [
-
-        ],
-    },
     'cottage': {
         'explain': 'a small hourse in the country',
         'examples': [
@@ -130,44 +88,6 @@ my_word_list = {
         'examples': [
 
         ],
-    },
-    'powder': {
-        'explain': "",
-        'examples': [
-
-        ],
-    },
-
-    'relocation': {
-        'explain': "",
-        'examples': [
-            "",
-        ]
-    },
-    'orientation': {
-        'explain': "",
-        'examples': [
-            "",
-        ],
-    },
-    'considering': {
-        'explain': "",
-        'examples': [
-
-        ],
-    },
-
-    'substance' : {
-        'explain': "",
-        'examples': [],
-    },
-    'dry': {
-        'explain': "", 
-        'examples': [],
-    },
-    'soap': {
-        'explain': "",
-        'examples': [],
     },
     'thoroughly': {
         'explain': "completely, very carefully",
@@ -190,10 +110,4 @@ my_word_list = {
             "A doesn't think co-worker treat her as an equal"
         ],
     },
-    'tenderly': {
-        'explain': "",
-        'examples': [
-            ''
-        ],
-    }
 }

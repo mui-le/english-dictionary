@@ -4,7 +4,7 @@ my_word_list = {
         'examples': [
             "a shop selling camping equipment",
             "some brand new computer equipment",
-            "a very useful a piece of equipment"
+            "a very useful a piece of equipment",
         ]
     },
     'accessory': {

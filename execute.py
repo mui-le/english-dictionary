@@ -21,7 +21,8 @@ if dics.has_key(word) == False:
 else:
     print dics[word]['explain']
 
-    raw_input("Let's write an example: ")
-    examples = dics[word]['examples']
-    for example in examples:
-        print ("\n====>: %s" %(example))
+    if len(dics[word]['examples']) >= 1:
+        raw_input("Let's write an example: ")
+        examples = dics[word]['examples']
+        for example in examples:
+            print ("\n====>: %s" %(example))

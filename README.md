@@ -1,7 +1,7 @@
 # English-dictionary
 *Dictionary English with python dictionary type*
 
-These're daily vocabularies that I made on every morning.
+These're daily vocabularies that I was made on every morning.
 
 ##### Aliases
 

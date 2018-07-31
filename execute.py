@@ -1,8 +1,13 @@
 import datetime
 import sys
 
-now = datetime.datetime.now()
-module_name = ("daily_%0.4d%0.2d%0.2d" %(now.year, now.month, now.day))
+if len(sys.argv) > 2:
+    num_day = int(sys.argv[2]) * -1
+    date_time = datetime.date.today() - datetime.timedelta(num_day)
+else:
+    date_time = datetime.date.today()
+
+module_name = ("daily_%0.4d%0.2d%0.2d" %(date_time.year, date_time.month, date_time.day))
 
 __import__(module_name)
 

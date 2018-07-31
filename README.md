@@ -7,7 +7,7 @@ These're daily vocabularies that I made on every morning.
 
 - `alias dd="cd {your_path} && python execute.py"`
 - `alias wl="cd {your_path} && python list.py"`
-- `alias d-init="alias wl="cd {your_path} && python init.py"`
+- `alias d-init="cd {your_path} && python init.py"`
 
 ##### How to use 
 

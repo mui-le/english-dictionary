@@ -24,5 +24,8 @@ else:
     if len(dics[word]['examples']) >= 1:
         raw_input("Let's write an example: ")
         examples = dics[word]['examples']
-        for example in examples:
-            print ("\n====>: %s" %(example))
+        if isinstance(examples, list):
+            print ("\n====>: %s" %(examples))
+        else:
+            for example in examples:
+                print ("\n====>: %s" %(example))

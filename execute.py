@@ -19,7 +19,12 @@ word = str(sys.argv[1])
 if dics.has_key(word) == False: 
     print("Not exist this word: %s" %(word))
 else:
-    print dics[word]['explain']
+    explains = dics[word]['explain']
+    if isinstance(explains, list) == False:
+        print ("***: %s" %(explains))
+    else:
+        for exp in explains:
+            print ("***: %s" %(exp))
 
     if len(dics[word]['examples']) >= 1:
         raw_input("Let's write an example: ")

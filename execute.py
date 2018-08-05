@@ -19,6 +19,7 @@ word = str(sys.argv[1])
 if dics.has_key(word) == False: 
     print("Not exist this word: %s" %(word))
 else:
+    raw_input("Let's say something to decribe this word: ")
     explains = dics[word]['explain']
     if isinstance(explains, list) == False:
         print ("***: %s" %(explains))

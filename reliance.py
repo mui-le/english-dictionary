@@ -1,0 +1,86 @@
+broad
+disease
+suffer
+chew
+bite 
+teeth
+sudden
+swallow
+throat
+significantly
+diet
+differ
+by older ones
+reliance
+synonyms
+oil
+spread
+consider
+individual
+leaf
+separately
+crush
+damage
+death
+enthusiast
+enthusiatic
+enthusiasm
+eagerness
+enthuse
+proud
+strategies
+strategic
+military
+navy
+noise
+loud
+unpleasant
+a slight
+substance
+chew
+lip
+anxiously
+slope
+bone
+tough
+so tough
+teeth
+bit
+bleed
+croissant
+took a sip
+conger
+adult
+fist
+triple
+toward
+stomach
+prey
+honor
+vein
+passage
+tube
+candidate
+election
+narrow
+the narrow passage
+his narrow bed
+band of cloud
+presidential
+retraining
+whether
+tourists
+possibility
+infinitive
+enemy
+harm
+procedure
+capacity
+plural
+escape
+judgment
+refused
+rush
+broke
+flat
+bush

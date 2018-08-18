@@ -1,12 +1,12 @@
 my_word_list = {
-    'Historycal': {
+    'historical': {
         'explain': "relating to the part",
         'examples': [
             "places of historical interest",
             "It's important to look at the novel in its historical context"
         ],
     },
-    "Perception": {
+    "perception": {
         "explain": "the way you think about somethikng and your idea of what it's like",
         "examples": [
             "children's perception of the world",
